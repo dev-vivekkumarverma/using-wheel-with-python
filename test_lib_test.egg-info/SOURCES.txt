@@ -1,0 +1,11 @@
+README.md
+setup.py
+test_lib/__init__.py
+test_lib/analyser.py
+test_lib2/__init__.py
+test_lib_test.egg-info/PKG-INFO
+test_lib_test.egg-info/SOURCES.txt
+test_lib_test.egg-info/dependency_links.txt
+test_lib_test.egg-info/entry_points.txt
+test_lib_test.egg-info/requires.txt
+test_lib_test.egg-info/top_level.txt

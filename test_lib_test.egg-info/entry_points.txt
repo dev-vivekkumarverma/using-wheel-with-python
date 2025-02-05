@@ -1,0 +1,2 @@
+[console_scripts]
+analyze-data = test_lib.analyser:main
